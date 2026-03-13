@@ -21,6 +21,7 @@ The response MUST follow these strict rules:
 1️⃣ Entire output must be **in ONE markdown block** so I can **copy-paste into VS Code directly**.
 
 2️⃣ Language format:
+same content GitHub-friendly Markdown format में dena jo heading our sabheading size se hi samaj zaye.
 
 🟢 **First explain in pure Hindi (easy explanation)**
 🔵 **Then explain in English**
